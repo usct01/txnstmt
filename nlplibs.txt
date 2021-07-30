@@ -1,0 +1,13 @@
+tensorflow
+keras
+keras-tuner
+auto-keras
+transformers
+sentence-transformers
+pandas
+scikit-learn
+jupyter
+jupyter-contrib-nbextensions
+spacy
+spacy-transformers
+gensim
